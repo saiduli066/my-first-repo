@@ -53,8 +53,22 @@ p{
 .side h4{
 font-size: medium;
 }
-.fakeimg{
+.fakeimg1{
   background-color: rgb(255, 6, 139);
+  padding: 10px; 
+  font-family: arial; 
+  font-weight: medium;
+}
+
+.fakeimg2{
+  background-color: rgb(216, 225, 92);
+  padding: 10px; 
+  font-family: arial; 
+  font-weight: medium;
+}
+
+.fakeimg3{
+  background-color: rgba(6, 201, 255, 0.863);
   padding: 10px; 
   font-family: arial; 
   font-weight: medium;
